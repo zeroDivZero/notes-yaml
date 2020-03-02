@@ -2,7 +2,7 @@
 
 ```yaml
 person:
-  name: "Randy"
+  name: "Randy"  ## quotation optional; needed if string contains YAML-specific characters
   occupation: 'programmer'
   age: 37
   gpa: 3.8
